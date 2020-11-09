@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="urls">
+        "https://vitamin-mir.ru/images/virtuemart/product/s1200.jpg",
+        "https://i.pinimg.com/736x/b5/ed/27/b5ed27930f68d86ffebc53e945f082a4.jpg",
+        "https://i.pinimg.com/originals/2b/a3/e4/2ba3e41374427027f99eeedb4c93206f.jpg",
+        "https://avatars.mds.yandex.net/get-pdb/964102/682da809-0980-4ca1-be09-7301c96312aa/s1200?webp=false",
+        "https://i.pinimg.com/originals/2b/a3/e4/2ba3e41374427027f99eeedb4c93206f.jpg"
+    </array>
+</resources>
