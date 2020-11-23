@@ -10,7 +10,8 @@ import kotlinx.android.synthetic.main.images_list.view.*
 
 class ImagesAdapter(val list: ArrayList<String>) : RecyclerView.Adapter<ImagesAdapter.ViewHolder>() {
   lateinit var holder: ViewHolder
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) = ViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.images_list, parent, false))
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int)
+            = ViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.images_list, parent, false))
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         this.holder=holder
